@@ -17,3 +17,5 @@ Para essas análises exploratórias tive como objetivo:
 *Bibliotecas utilizadas: Pandas, Seaborn
 
 *Fonte dos dados: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
+
+*Feito por Lucas Andrei Campos-Silva
